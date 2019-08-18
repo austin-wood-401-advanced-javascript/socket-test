@@ -6,6 +6,8 @@
 * Navigate to the correct repository in the terminal
 * node console.js
 * node app.js
+#### Additional Info: 
+* Hosted on AWS at http://aw-socket-server.us-east-2.elasticbeanstalk.com/ 
 
 * [Submission PR](https://github.com/austin-wood-401-advanced-javascript/socket-test/pull/3)
 
